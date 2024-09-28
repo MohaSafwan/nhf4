@@ -180,7 +180,7 @@ i a{
 .nav-bars ul li a{
     font-size: auto;
     text-decoration: none;
-    color: rgb(20, 8, 8);
+    color: rgb(231, 221, 221);
    
 }
 .nav-bars ul li::after {
